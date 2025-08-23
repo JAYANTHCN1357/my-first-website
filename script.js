@@ -1,3 +1,4 @@
 function sayHello() {
-  alert("Welcome to your first app!");
+  alert("karya allias vijay,kulli allias praj , kadi allias ud, mullu allias ash, sote allias sur ");
 }
+
